@@ -1,71 +1,1938 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms" xml:base="http://android.channel4.com">
-  <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od</id>
-  <title type="text">Four in a Bed on 4oD</title>
-  <updated>2013-02-18T10:05:17.883Z</updated>
-  <author>
-    <name>Channel 4 Television</name>
-  </author>
-  <logo imageSource="own">http://cache.channel4.com/assets/programmes/images/four-in-a-bed/0ac1778f-6333-4f6b-806e-c23502b40624_200x113.jpg</logo>
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed/4od.atom?platform=android" rel="self" type="application/atom+xml" />
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed.atom?platform=android" rel="up" type="application/atom+xml" />
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed/4od/recommendations.atom?platform=android" rel="related" type="application/atom+xml" title="recommendations" />
-  <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
-  <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
-  <dc:relation.platformClientVersion>1.1</dc:relation.platformClientVersion>
-  <dc:relation.BrandWebSafeTitle>four-in-a-bed</dc:relation.BrandWebSafeTitle>
-  <dc:relation.ProgrammeType>MSU</dc:relation.ProgrammeType>
-  <dc:relation.4oDSeriesCount>1</dc:relation.4oDSeriesCount>
-  <dc:relation.4oDProgrammeCount>20</dc:relation.4oDProgrammeCount>
-  <generator version="1.46">PMLSD</generator>
-  <entry>
-    <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
-    <title type="text">This is a Downloadable Episode</title>
-    <summary type="text">This should appear to be both streamed and downloaded</summary>
-    <updated>2013-01-21T12:10:07.451Z</updated>
-	<dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
-	<dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
-    <dc:relation.EpisodeNumber>12</dc:relation.EpisodeNumber>
-    <dc:relation.programmeId>55221/007</dc:relation.programmeId>
-    <dc:date.FirstTXDate>2011-11-02T00:00:00.000Z</dc:date.FirstTXDate> 
-    <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://android.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
-    <media:group>
-	  <media:content> 
-        <media:player url="http://ais.channel4.com/asset/3466998" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>STREAM</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:date.TXDate>2011-11-02T00:00:00.000Z</dc:date.TXDate> <!-- when CATCHUP then the date on the request; when ARCHIVE this element is omitted -->
-		<dc:relation.TXChannel>C4</dc:relation.TXChannel> <!-- when CATCHUP then the channel on the request; when ARCHIVE this element is omitted -->
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-	  </media:content> 
-	  <media:content> 
-        <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:date.TXDate>2011-11-02T00:00:00.000Z</dc:date.TXDate> <!-- when CATCHUP then the date on the request; when ARCHIVE this element is omitted -->
-		<dc:relation.TXChannel>C4</dc:relation.TXChannel> <!-- when CATCHUP then the channel on the request; when ARCHIVE this element is omitted -->
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-    </media:group>
-  </entry>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms"
+      xml:base="http://ios.int.channel4.com">
+    <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od</id>
+    <title type="text">Peep Show on 4oD</title>
+    <updated>2013-02-22T10:41:33.749Z</updated>
+    <author>
+        <name>Channel 4 Television</name>
+    </author>
+    <logo imageSource="own">
+        http://cache.int.channel4.com/assets/programmes/images/peep-show/9e69cd37-13f0-4dcb-90fd-a39cf6701731_200x113.jpg
+    </logo>
+    <link href="http://ios.int.channel4.com/pmlsd/peep-show/4od.atom?platform=ios" rel="self"
+          type="application/atom+xml"/>
+    <link href="http://ios.int.channel4.com/pmlsd/peep-show.atom?platform=ios" rel="up" type="application/atom+xml"/>
+    <link href="http://ios.int.channel4.com/pmlsd/peep-show/4od/recommendations.atom?platform=ios" rel="related"
+          type="application/atom+xml" title="recommendations"/>
+    <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
+    <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
+    <dc:relation.platformClientVersion>1.0</dc:relation.platformClientVersion>
+    <dc:relation.BrandWebSafeTitle>peep-show</dc:relation.BrandWebSafeTitle>
+    <dc:relation.ProgrammeType>MSU</dc:relation.ProgrammeType>
+    <dc:relation.4oDSeriesCount>8</dc:relation.4oDSeriesCount>
+    <dc:relation.4oDProgrammeCount>48</dc:relation.4oDProgrammeCount>
+    <generator version="1.50-SNAPSHOT">PMLSD</generator>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319112</id>
+        <title type="text">Warring Factions</title>
+        <summary type="text">Despite being bullied on the street by the local children, Mark sets himself the task of
+            sleeping with the divorcee Toni next door, basing his seduction technique on the Battle of Stalingrad...
+        </summary>
+        <updated>2012-12-20T12:56:24.020Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-09-18T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285470"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-1/peep-show-s1e1-20090618173148_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:56</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
+        <title type="text">The Interview</title>
+        <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
+            agrees to go for a job working in Mark's office...
+        </summary>
+        <updated>2012-12-20T12:56:55.080Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-09-25T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285510"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319116</id>
+        <title type="text">On the Pull</title>
+        <summary type="text">Mark and Jeremy go 'on the pull' and Mark finds himself smoking pot in the Lazerbowl
+            toilets with a teenage goth...
+        </summary>
+        <updated>2012-12-20T12:56:22.736Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-10-02T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285514"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-3/peep-show-s1e3-20090618173508_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:45</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
+        <title type="text">Mark Makes a Friend</title>
+        <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
+            friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
+        </summary>
+        <updated>2012-12-20T12:56:55.054Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-10-09T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285469"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
+        <title type="text">Dream Job</title>
+        <summary type="text">Jeremy tries to wow Toni with his new job in a music studio, while Mark gets passed over
+            for promotion in favour of Sophie, and goes slowly round the twist
+        </summary>
+        <updated>2012-12-20T12:56:55.020Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-10-16T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285512"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:43</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122</id>
+        <title type="text">Funeral</title>
+        <summary type="text">Death and terminal illness prove to be the keys to romantic success for Mark and
+            Jeremy...
+        </summary>
+        <updated>2012-12-20T12:56:22.994Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-10-23T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285472"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-6/peep-show-s1e6-20090618173652_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:10</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319248</id>
+        <title type="text">Dance Class</title>
+        <summary type="text">Can you love two people at the same time? Jeremy believes you can, and his gorgeous new
+            American girlfriend puts his taboo bashing beliefs to the test.
+        </summary>
+        <updated>2012-02-10T10:48:06.668Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-11-12T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285481"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>26:50</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>26:50</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319255</id>
+        <title type="text">Jeremy Makes It</title>
+        <summary type="text">Jeremy meets an old classmate, Gog, who he used to bully. Gog is now successful and invites
+            Jeremy to work on his latest art house movie.
+        </summary>
+        <updated>2012-02-10T10:48:37.027Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-11-19T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285484"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-2/peep-show-s2e2-20090618173946_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:52</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319257</id>
+        <title type="text">Local Zero</title>
+        <summary type="text">Jeff is going on a work trip with Sophie to Aberdeen, and Mark - fearful they will sleep
+            together - becomes desperate to stop them...
+        </summary>
+        <updated>2012-02-10T10:49:07.980Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-11-26T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285482"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-3/peep-show-s2e3-20090618174056_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:16</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319259</id>
+        <title type="text">University Challenge</title>
+        <summary type="text">Mark manages to blur the line between enthusiastic new boyfriend and stalker. Jeremy joins
+            a new band, but insists that he is neither a roadie nor the equivalent of Bez.
+        </summary>
+        <updated>2012-02-10T10:49:07.773Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-12-03T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285483"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-4/peep-show-s2e4-20090618175201_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:55</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-4/peep-show-s2e4-20090618175201_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:55</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319261</id>
+        <title type="text">The Man Show</title>
+        <summary type="text">Mark becomes depressed about Sophie living with Jeff, but Jeremy is not sure that
+            self-mutilation is the answer. Besides, Jeremy and Jeff are getting on horribly well.
+        </summary>
+        <updated>2012-02-10T10:49:07.903Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-12-10T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285485"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-5/peep-show-s2e5-20090618175252_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:43</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319263</id>
+        <title type="text">Wedding</title>
+        <summary type="text">Jeremy and Nancy are getting married, for visa reasons. Mark, determined to save his
+            friend, will do whatever it takes.
+        </summary>
+        <updated>2012-04-27T15:25:00.038Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>36687/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2004-12-17T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285477"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-6/peep-show-s2e6-20090618175529_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:52</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324073</id>
+        <title type="text">Mugging</title>
+        <summary type="text">Mark has a run-in with some muggers, who steal his precious BlackBerry - and put him off
+            his stroke with Sophie as a result... Meanwhile, Jeremy faces a tricky dilemma over the love of his life and
+            a potential threesome.
+        </summary>
+        <updated>2012-02-15T17:38:46.209Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-11-11T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285447"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-1/peep-show-s3e1-20090618175830_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Michelle"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:42</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324075</id>
+        <title type="text">Sectioning</title>
+        <summary type="text">Jeremy is forced to consider getting an old friend sectioned. And he soon realises
+            sectioning could be a good way of ridding his life of other problem people...
+        </summary>
+        <updated>2012-02-15T17:39:16.730Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-11-18T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285448"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-2/peep-show-s3e2-20090618175855_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324291</id>
+        <title type="text">Shrooming</title>
+        <summary type="text">Jeremy plans to throw a secret magic mushroom party in the flat, where he hopes to seduce
+            his ex, Big Suze
+        </summary>
+        <updated>2012-02-15T17:39:16.783Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-11-25T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285445"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-3/peep-show-s3e3-20090618175945_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:15</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324077</id>
+        <title type="text">Sistering</title>
+        <summary type="text">Mark's plans for a productive week off work go out the window when his sister comes to stay
+            and, of course, Jeremy clearly has the hots for her
+        </summary>
+        <updated>2012-02-15T17:39:16.828Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-12-02T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285444"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-4/peep-show-s3e4-20090618180021_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Big Suze"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:33</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324079</id>
+        <title type="text">Jurying</title>
+        <summary type="text">Sophie and her new gay friend, Dom, drag Mark off to a gay club, where he pretends to take
+            drugs with the others. Meanwhile, Jeremy is on jury service - and starts an ill-advised affair with the
+            female defendant.
+        </summary>
+        <updated>2012-02-15T17:39:16.885Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-12-09T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285449"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-5/peep-show-s3e5-20090618180109_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez eating breakfast"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:03</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324081</id>
+        <title type="text">Quantocking</title>
+        <summary type="text">Mark is worried he's drifting apart from Sophie, so immediate action is called for: he must
+            propose... and where better but the Quantocks?
+        </summary>
+        <updated>2012-02-15T17:39:16.943Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-3/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>39670/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2005-12-16T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285486"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-3/episode-6/peep-show-s3e6-20090618180129_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Sophie"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2016-11-27T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:55</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324323</id>
+        <title type="text">Sophie's Parents</title>
+        <summary type="text">Mark and Sophie are engaged to be married. Unfortunately Mark is having doubts; crippling
+            doubts.
+        </summary>
+        <updated>2012-02-21T10:32:26.583Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-04-12T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285456"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-1/peep-show-s4e1-20090618181722_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:41</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324325</id>
+        <title type="text">Conference</title>
+        <summary type="text">At the annual JLB conference in Kettering, Johnson tells Mark he has to give a presentation
+            in front of the entire board
+        </summary>
+        <updated>2012-02-21T10:32:26.625Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-04-19T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285453"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-2/peep-show-s4e2-20090618181739_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Very strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:52</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324328</id>
+        <title type="text">Gym</title>
+        <summary type="text">Mark is still having doubts about marrying Sophie, so joins a gym in order to spend as much
+            time away from her as possible
+        </summary>
+        <updated>2012-02-21T10:33:58.230Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-04-26T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285461"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-3/peep-show-s4e3-20090618181757_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:33</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324330</id>
+        <title type="text">Handyman</title>
+        <summary type="text">Jeremy meets his hero - techno musician Russell 'The Orgazoid' and ends up working as his
+            handyman...
+        </summary>
+        <updated>2012-02-21T10:33:27.747Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-05-03T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285450"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-4/peep-show-s4e4-20090618181814_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Sophie"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:11</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324333</id>
+        <title type="text">Holiday</title>
+        <summary type="text">Jeremy has organised a stag weekend. This consists of Mark and Jeremy on a canal boat on
+            the Shropshire Union Canal. Unfortunately, it's cold and there's nothing to do...
+        </summary>
+        <updated>2012-02-21T10:33:27.797Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-05-10T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285458"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-5/peep-show-s4e5-20090618181831_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:58</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324335</id>
+        <title type="text">Marriage</title>
+        <summary type="text">It's the big day: Mark is getting married to Sophie. Mark and his best man, Jeremy, set off
+            in the car to the church, with a very hungover Super Hans in the back.
+        </summary>
+        <updated>2012-02-21T10:33:27.695Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-4/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>41968/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2007-05-17T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285457"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-4/episode-6/peep-show-s4e6-20090618181850_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2017-04-12T22:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:59</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327093</id>
+        <title type="text">Burgling</title>
+        <summary type="text">Mark rediscovers single life after his disastrous wedding to Sophie, and he and Jeremy
+            become victims of crime
+        </summary>
+        <updated>2012-02-21T10:33:27.544Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-05-01T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285464"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-1/peep-show-s5e1-20090618183822_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Sophie in wedding dress"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:40</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327095</id>
+        <title type="text">Spin War</title>
+        <summary type="text">Mark and Sophie return to work after their non-existent honeymoon and Mark tries to deflect
+            the inevitable bad PR attached to a jilter. Meanwhile, Jeremy and Super Hans's band play their first gig.
+        </summary>
+        <updated>2012-02-21T10:33:27.586Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-05-08T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285467"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-2/peep-show-s5e2-20090618184048_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="MARK"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:07</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327098</id>
+        <title type="text">Jeremy Broke</title>
+        <summary type="text">Jeremy finally runs out of money and finds himself on a downward spiral of hunger,
+            homelessness and criminality. Meanwhile, Mark has his own problems - he needs to find a girlfriend before
+            his birthday party.
+        </summary>
+        <updated>2012-02-21T10:33:27.642Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-05-15T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285422"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-3/peep-show-s5e3-20090618183330_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Super Hans"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:54</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327121</id>
+        <title type="text">Jeremy's Mummy</title>
+        <summary type="text">Jeremy's mother comes to visit for a family funeral. Her new boyfriend is a military man
+            who Jeremy deeply resents, and who Mark idolises. Desperate to impress, Mark endures an extraordinary
+            ordeal.
+        </summary>
+        <updated>2012-02-21T10:34:29.232Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-05-22T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285426"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-4/peep-show-s5e4-20090618183358_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Big Suze"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:24</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327124</id>
+        <title type="text">Jeremy's Manager</title>
+        <summary type="text">Jeremy and Super Hans get a band manager and play a Christian rock festival. Mark comes
+            along as their roadie, and learns how to have sex properly for the first time in his life.
+        </summary>
+        <updated>2012-02-21T10:34:29.312Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-05-29T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285421"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-5/peep-show-s5e5-20090618183414_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:53</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10327126</id>
+        <title type="text">Mark's Women</title>
+        <summary type="text">Mark gets into online gaming and live role-play with Dobby and wonders whether she may
+            really be 'the one'. Meanwhile, Jeremy is brainwashed - loosely speaking - by a cult.
+        </summary>
+        <updated>2012-02-21T10:34:29.377Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-5/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>5</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>45026/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2008-06-05T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285424"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-5/episode-6/peep-show-s5e6-20090618183432_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Johnson"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:38</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324279</id>
+        <title type="text">Jeremy at JLB</title>
+        <summary type="text">Newly promoted Mark decides to enjoy his additional power and wealth by splashing out on a
+            boiler, a 'creamy elephant' sofa and by finding Jeremy a job in the office
+        </summary>
+        <updated>2012-02-21T10:32:26.666Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-09-17T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285427"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-1/febc7da7-d0fe-40a5-a367-601de1cacd14_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:57</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324088</id>
+        <title type="text">The Test</title>
+        <summary type="text">Jeremy meets a new love, Russian emigre Elena. Meanwhile, Mark makes a final play for
+            Dobby, the object of his desires. But Sophie has some news...
+        </summary>
+        <updated>2012-02-21T10:32:26.712Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-09-24T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285431"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-2/b94c629d-9fbd-4ad2-98d5-8ccd3104411e_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:35</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324281</id>
+        <title type="text">Jeremy in Love</title>
+        <summary type="text">Jeremy realizes that he's in love with Elena and decides to be less selfish in order to win
+            her affection. He also thinks it might be a good idea to tell her he loves her, but Mark isn't so sure.
+        </summary>
+        <updated>2012-02-21T10:34:29.435Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-10-01T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285435"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-3/90c1b6a3-2de9-4fe0-b947-e8f6274f156e_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Elena"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:43</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324090</id>
+        <title type="text">The Affair</title>
+        <summary type="text">Mark discovers that Jeremy's girlfriend Elena has a guilty secret. But should he tell him
+            when Jez is clearly so happy?
+        </summary>
+        <updated>2012-02-21T10:32:26.761Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-10-08T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285430"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-4/f55bf65f-0229-46cf-a22e-c524a4f6052d_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Alan Johnson"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:54</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324283</id>
+        <title type="text">The Party</title>
+        <summary type="text">As a last desperate hurrah before the baby arrives, Mark and Jeremy decide to throw a
+            party. For Mark, it's his last chance with Dobby, for Jeremy, a chance to make Elena insanely jealous.
+        </summary>
+        <updated>2012-02-21T10:34:59.982Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-10-15T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285432"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-5/46510c52-1766-43c6-b52e-18085b182a66_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Gerrard - Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:30</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10324287</id>
+        <title type="text">Das Boot</title>
+        <summary type="text">Elena and Gail's wedding is imminent, but Jeremy is busy plotting how to get rid of Gail
+            and win Elena back
+        </summary>
+        <updated>2012-02-21T10:34:29.493Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-6/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>6</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>46604/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2009-10-22T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285437"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-6/episode-6/3b010dd1-69d3-490c-9985-19ad79f20557_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jeremy and Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:08</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331179</id>
+        <title type="text">St Hospitals</title>
+        <summary type="text">Mark and Jeremy are at the hospital awaiting the birth of Mark's baby. Sophie is determined
+            to have a natural birth and doesn't want Mark to transfer any of his anxiety to the baby.
+        </summary>
+        <updated>2012-02-21T15:59:41.860Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-11-26T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285402"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-1/5379c318-62d1-49f3-bb97-30b22115c84a_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Jeremy"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:03</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331180</id>
+        <title type="text">Man Jam</title>
+        <summary type="text">Dobby, the object of Mark's desires, is going out with Simon, a graphic designer. Mark and
+            Gerrard form the 'Dobby Club' are devoted to winning her over. But who will ultimately triumph, Mark or
+            Gerrard?
+        </summary>
+        <updated>2012-02-21T15:59:41.888Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-12-03T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285400"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-2/59996195-0a99-4d1a-8b8b-3fc7f6e64aed_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Jeremy"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:38</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331181</id>
+        <title type="text">A Beautiful Mind</title>
+        <summary type="text">Jeremy tries to impress Zahra by holding a book group at the flat, but he's only ever read
+            Mr Nice. Mark meanwhile is worried that he is unable to satisfy Dobby's sexual needs.
+        </summary>
+        <updated>2012-02-21T15:59:41.900Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-12-10T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285398"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-3/50782fff-8b9d-4e09-b2c5-2f055aadf9a1_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:14</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331182</id>
+        <title type="text">Nether Zone</title>
+        <summary type="text">It's the day of Mark's baby's christening and he arranges to pick up Jeremy, the baby's
+            godfather, from Zahra's flat on his way to the church. But sadly the lads get locked in the hallway.
+        </summary>
+        <updated>2012-02-21T15:59:41.912Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-12-17T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285443"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-4/64c898b5-db9d-44c5-bf75-90a1724c924c_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Jeremy"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:23</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331183</id>
+        <title type="text">Seasonal Beatings</title>
+        <summary type="text">It's Christmas Day and Mark has invited his parents over for lunch. He has planned
+            everything, but Jeremy is over excited, and Dobby and Super Hans show up.
+        </summary>
+        <updated>2012-02-21T15:59:41.925Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-12-24T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285399"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-5/a20e2f25-3603-469f-9512-8c7af89fb632_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Jeremy"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>25:42</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10331184</id>
+        <title type="text">New Year's Eve</title>
+        <summary type="text">It's New Year's Eve, and Mark is depressed about Dobby, but Jeremy is determined that the
+            'El Dude Brothers' are going to enjoy the night of their lives
+        </summary>
+        <updated>2012-02-21T15:59:41.987Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-7/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>7</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>47548/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2010-12-29T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285441"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-7/episode-6/7c693871-2119-4581-b8b0-4f0b0cb2fb5e_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark and Jeremy"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2014-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:37</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10570293</id>
+        <title type="text">Jeremy Therapised</title>
+        <summary type="text">Jeremy Therapised: Mark has asked Dobby to move in with him, and Jeremy is faced with the
+            prospect of moving out. But Jeremy is dragging his heels and Mark is worried that Dobby will move in with
+            his rival Gerrard instead.
+        </summary>
+        <updated>2013-01-11T15:53:21.351Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-1.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/001</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-11-25T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466418"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-1/a3471521-98c7-423f-a086-37328d832bb0_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show: Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>18</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:22</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10582224</id>
+        <title type="text">Business Secrets of the Pharaohs</title>
+        <summary type="text">Mark gets a lucky break when his book, 'Business Secrets of the Pharaohs', is accepted by a
+            'publisher'. Jeremy, in an attempt to kick-start his career, enrols on a life-coaching course.
+        </summary>
+        <updated>2013-01-11T15:53:21.400Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-12-02T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466417"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-2/cad9b6cd-0d52-404a-88e9-58d8b15e8205_200x113.jpg"
+                        height="113" width="200" imageSource="own"
+                        altText="Peep Show: David Mitchell as Mark Corrigan"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:16</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10589141</id>
+        <title type="text">The Love Bunker</title>
+        <summary type="text">Simon, Dobby's ex-boyfriend, invites Mark, Dobby, Jeremy and Super Hans to join him and his
+            friends for a paintballing weekend
+        </summary>
+        <updated>2013-01-11T15:54:21.769Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-3.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>3</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/003</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-12-09T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466422"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-3/bbfc5013-6bc7-4b61-8688-1485f35592b5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Peep Show: Dobby"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>18</dc:relation.AgeRating>
+                <dc:relation.Guidance>Very strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>23:09</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10596186</id>
+        <title type="text">Big Mad Andy</title>
+        <summary type="text">Mark employs a decorator, Andy played by Liam Noble, to repaint the kitchen, and Jeremy
+            helps out by giving him free 'life-coaching' advice
+        </summary>
+        <updated>2013-01-11T15:54:21.618Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-4.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/004</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-12-16T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466421"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-4/869e8dc7-fbf6-4938-91a0-2051e16dc819_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="peep_show_s8_wk48_v1_625x352"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>18</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:50</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10602197</id>
+        <title type="text">Chairman Mark</title>
+        <summary type="text">Jeremy, desperate to find somewhere else to live, sparks up an old relationship with Mark's
+            sister Sara, and moves in with her and her five-year-old son, Joshy
+        </summary>
+        <updated>2013-01-11T15:54:21.708Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-5.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/005</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-12-23T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466419"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-5/c90e23e2-bdeb-4a52-9076-b6538373dc86_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark grimaces in Peep Show series eight"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>18</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>22:37</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10605176</id>
+        <title type="text">Quantocking II</title>
+        <summary type="text">Dobby is offered a job in New York. While she's still on the horns of a dilemma Mark - who
+            thinks she's lying - suggests they spend a weekend in the country...
+        </summary>
+        <updated>2013-01-11T15:54:21.524Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-8/episode-6.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>8</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>6</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>51380/006</dc:relation.programmeId>
+        <dc:date.firstTXDate>2012-12-24T00:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3466420"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-8/episode-6/fdcae2bf-a412-49dc-a002-a22650e26166_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jeremy looks irritated in Peep Show"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2013-01-24T00:00:00.000Z; end=2015-11-16T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>18</dc:relation.AgeRating>
+                <dc:relation.Guidance>Very strong language and adult humour</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:21</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
 </feed>
