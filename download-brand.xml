@@ -194,6 +194,26 @@
                 <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
                 <dc:relation.Duration>24:11</dc:relation.Duration>
             </media:content>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285469"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
         </media:group>
     </entry>
     <entry>
@@ -224,6 +244,26 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:43</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://ais.int.channel4.com/asset/3285512"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Mark"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
                 <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
