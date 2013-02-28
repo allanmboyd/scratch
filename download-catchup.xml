@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms">
+    <id>tag:android.channel4.com,2009:/programmes/4od/episode-list/date/2013/02/18</id>
+    <title type="text">4od on Monday 18 February 2013</title>
+    <link href="http://android.channel4.com/pmlsd/4od/episode-list/date/2013/02/18.atom?platform=android" rel="self" type="application/atom+xml" />
+    <link href="http://android.channel4.com/pmlsd/4od/episode-list/date/2013/02/17.atom?platform=android" rel="previous" type="application/atom+xml" />
+    <author>
+        <name>Channel 4 Television</name>
+    </author>
+    <updated>2013-02-18T16:36:13.450Z</updated>
+    <logo imageSource="default">http://cache.channel4.com/static/programmes/images/c4-atom-logo.gif</logo>
+    <dc:relation.platformClientVersion>1.1</dc:relation.platformClientVersion>
+    <generator version="1.46">PMLSD</generator>
+    <entry>
+        <id>tag:android.channel4.com,2009:/programmes/countdown/4od%233477001</id>
+        <title type="text">Countdown</title>
+        <updated>2013-02-07T11:26:04.822Z</updated>
+        <summary type="html">Nick Hewer and Rachel Riley host as contestants race against the clock to pit their wits against vowels, consonants and numbers. Ken Bruce is the Dictionary Corner guest.</summary>
+        <dc:relation.BrandTitle>Countdown</dc:relation.BrandTitle>
+        <dcterms:available>start=2013-02-11T15:30:00.000Z; end=2013-03-13T15:30:00.000Z; scheme=W3C-DTF</dcterms:available>
+        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>26</dc:relation.EpisodeNumber>
+        <dc:date.FirstTXDate>2013-02-18T09:15:00.000Z</dc:date.FirstTXDate>
+        <dc:relation.FirstTXChannel>4S</dc:relation.FirstTXChannel>
+        <dc:relation.LoginRequired>false</dc:relation.LoginRequired>
+        <dc:relation.BrandWebSafeTitle>countdown</dc:relation.BrandWebSafeTitle>
+        <dc:relation.ProgrammeType>LR</dc:relation.ProgrammeType>
+        <link href="http://android.channel4.com/pmlsd/countdown/episode-guide/series-3/episode-26.atom?platform=android" rel="related" type="application/atom+xml" />
+        <media:group>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml" />
+                <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/countdown/series-2013/9363db6f-71d5-4a23-b60e-03df177e17fc_200x113.jpg" height="113" width="200" imageSource="fallback" altText="Countdown 2013" />
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official" />
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://ais.channel4.com/asset/3466998" />
+                <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/countdown/series-2013/9363db6f-71d5-4a23-b60e-03df177e17fc_200x113.jpg" height="113" width="200" imageSource="fallback" altText="Countdown 2013" />
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official" />
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>STREAM</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+</feed>
