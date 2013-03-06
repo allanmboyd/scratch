@@ -79,7 +79,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
@@ -175,7 +175,7 @@
                 <dc:relation.Duration>24:11</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -233,7 +233,7 @@
                 <dc:relation.Duration>24:43</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -291,7 +291,7 @@
                 <dc:relation.Duration>25:10</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
@@ -349,7 +349,7 @@
                 <dc:relation.Duration>26:50</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
@@ -483,7 +483,7 @@
                 <dc:relation.Duration>25:55</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-4/peep-show-s2e4-20090618175201_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Super Hans"/>
