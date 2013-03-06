@@ -40,7 +40,7 @@
               rel="related" type="application/atom+xml"/>
         <media:group>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-ais.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.channel4.com/assets/programmes/images/countdown/series-2013/9363db6f-71d5-4a23-b60e-03df177e17fc_200x113.jpg"
                         height="113" width="200" imageSource="fallback" altText="Countdown 2013"/>
