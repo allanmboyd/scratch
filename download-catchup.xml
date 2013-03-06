@@ -50,7 +50,7 @@
                 <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
                 <media:rights status="official"/>
                 <dc:relation.requestType>CATCHUP</dc:relation.requestType>
-                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
                 <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
                 <dc:date.TXDate>2011-11-02T00:00:00.000Z</dc:date.TXDate>
@@ -74,7 +74,7 @@
                 <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
                 <media:rights status="official"/>
                 <dc:relation.requestType>CATCHUP</dc:relation.requestType>
-                <dc:relation.DeliveryType>STREAM</dc:relation.DeliveryType>
+                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
                 <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
                 <dc:date.TXDate>2011-11-02T00:00:00.000Z</dc:date.TXDate>
