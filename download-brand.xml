@@ -41,7 +41,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285470"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285470"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-1/peep-show-s1e1-20090618173148_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -117,7 +117,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285514"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285514"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-3/peep-show-s1e3-20090618173508_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -155,7 +155,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285469"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285469"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -213,7 +213,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285512"/>
+                <media:player url="http://ais.test.channel4.com/asset/3285512"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -271,7 +271,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285472"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285472"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-6/peep-show-s1e6-20090618173652_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
@@ -329,7 +329,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285481"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285481"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
@@ -387,7 +387,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://ais.int.channel4.com/asset/3285484"/>
+                <media:player url="http://ais.stage.channel4.com/asset/3285484"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-2/peep-show-s2e2-20090618173946_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Super Hans"/>
