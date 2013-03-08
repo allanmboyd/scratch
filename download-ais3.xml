@@ -40,7 +40,7 @@
         <videoProfiles>
             <videoProfile name="widevine-download-1">
                 <stream bitrate="0" filesize="170237">
-                    <uri>https://raw.github.com/allanmboyd/scratch/master/15min-prog2.mp4</uri>
+                    <uri>http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/15min_programme_stitch_dtwo.mp4</uri>
                     <token>H5/p+FFBwixvYjxLQCOA0LIjdnOr8xgblVb/hMouf7vSs0ruoWXtST+XBuZojz1pEoWTZCJgyG5bc+bMpwUm+XgEKYWlM2qbdMgFmkuixDErUfyxy8Drkwl4/M1+K3GD</token>
                 </stream>
                 <cdn>ll</cdn>
