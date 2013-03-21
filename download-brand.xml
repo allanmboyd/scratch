@@ -35,6 +35,8 @@
         <updated>2012-12-20T12:56:24.020Z</updated>
         <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-1.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
+        <link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
+          type="application/atom+xml" title="merchandising"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
         <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
