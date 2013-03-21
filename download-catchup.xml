@@ -38,6 +38,8 @@
         <dc:relation.ProgrammeType>LR</dc:relation.ProgrammeType>
         <link href="http://android.channel4.com/pmlsd/countdown/episode-guide/series-3/episode-26.atom?platform=android"
               rel="related" type="application/atom+xml"/>
+    	<link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
+          type="application/atom+xml" title="merchandising"/>
         <media:group>
             <media:content>
                 <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
