@@ -1,161 +1,191 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms" xml:base="http://android.channel4.com">
-  <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od</id>
-  <title type="text">Four in a Bed on 4oD</title>
-  <updated>2013-02-18T10:05:17.883Z</updated>
-  <author>
-    <name>Channel 4 Television</name>
-  </author>
-  <logo imageSource="own">http://cache.channel4.com/assets/programmes/images/four-in-a-bed/0ac1778f-6333-4f6b-806e-c23502b40624_200x113.jpg</logo>
-  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od.atom?platform=ios" rel="self" type="application/atom+xml" />
-  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed.atom?platform=ios" rel="up" type="application/atom+xml" />
-  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od/recommendations.atom?platform=ios" rel="related" type="application/atom+xml" title="recommendations" />
-  <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
-  <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
-  <dc:relation.platformClientVersion>1.1</dc:relation.platformClientVersion>
-  <dc:relation.BrandWebSafeTitle>four-in-a-bed</dc:relation.BrandWebSafeTitle>
-  <dc:relation.ProgrammeType>MSU</dc:relation.ProgrammeType>
-  <dc:relation.4oDSeriesCount>1</dc:relation.4oDSeriesCount>
-  <dc:relation.4oDProgrammeCount>20</dc:relation.4oDProgrammeCount>
-  <generator version="1.46">PMLSD</generator>
-  <entry>
-    <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
-    <title type="text">This is a Downloadable Episode</title>
-    <summary type="text">This should appear to be both streamed and downloaded</summary>
-    <updated>2013-01-21T12:10:07.451Z</updated>
-  <dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
-	<dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
-    <dc:relation.EpisodeNumber>12</dc:relation.EpisodeNumber>
-    <dc:relation.programmeId>55221/007</dc:relation.programmeId>
-    <dc:date.FirstTXDate>2011-11-02T00:00:00.000Z</dc:date.FirstTXDate> 
-    <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
-    <media:group>
-	  <media:content> 
-        <media:player url="http://ais.channel4.com/asset/3500338" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>STREAM</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-     	<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-	  <media:content> 
-        <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais.xml" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-    </media:group>
-  </entry>
-  <entry>
-    <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
-    <title type="text">Downloadable Episode num 2</title>
-    <summary type="text">This should appear to be download only</summary>
-    <updated>2013-01-21T12:10:07.451Z</updated>
-	<dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
-	<dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
-    <dc:relation.EpisodeNumber>13</dc:relation.EpisodeNumber>
-    <dc:relation.programmeId>55221/008</dc:relation.programmeId>
-    <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
-    <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
-    <media:group>
-	  <media:content> 
-        <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-2.xml" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-    </media:group>
-  </entry>
-  <entry>
-    <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
-    <title type="text">Downloadable Episode num 3</title>
-    <summary type="text">This should appear to be download only</summary>
-    <updated>2013-01-21T12:10:07.451Z</updated>
-	<dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
-	<dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
-    <dc:relation.EpisodeNumber>14</dc:relation.EpisodeNumber>
-    <dc:relation.programmeId>55221/009</dc:relation.programmeId>
-    <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
-    <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
-    <media:group>
-	  <media:content> 
-        <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-3.xml" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-    </media:group>
-  </entry>
-  <entry>
-    <id>tag:android.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
-    <title type="text">Geo Error Episode</title>
-    <summary type="text">This should appear to be download only</summary>
-    <updated>2013-01-21T12:10:07.451Z</updated>
-	<dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
-	<dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
-    <dc:relation.EpisodeNumber>15</dc:relation.EpisodeNumber>
-    <dc:relation.programmeId>55221/010</dc:relation.programmeId>
-    <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
-    <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
-    <media:group>
-	  <media:content> 
-        <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-4.xml" />
-        <media:thumbnail url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg" height="113" width="200" imageSource="own" altText="Four in a Bed" />
-        <media:rating>nonadult</media:rating>
-        <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions</media:copyright>
-        <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
-        <media:rights status="official" />
-		<dc:relation.requestType>CATCHUP</dc:relation.requestType>
-		<dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-		<dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF</dcterms:available>
-		<dc:relation.AgeRating>16</dc:relation.AgeRating>
-		<dc:relation.Guidance>Strong language</dc:relation.Guidance>
-		<dc:relation.Subtitles>true</dc:relation.Subtitles>
-		<dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-		<dc:relation.Duration>15:00</dc:relation.Duration> 
-	  </media:content> 
-    </media:group>
-  </entry>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
+      xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms"
+      xml:base="http://ios.channel4.com">
+    <id>tag:ios.channel4.com,2009:/programmes/four-in-a-bed/4od</id>
+    <title type="text">Four in a Bed on 4oD</title>
+    <updated>2013-02-18T10:05:17.883Z</updated>
+    <author>
+        <name>Channel 4 Television</name>
+    </author>
+    <logo imageSource="own">
+        http://cache.channel4.com/assets/programmes/images/four-in-a-bed/0ac1778f-6333-4f6b-806e-c23502b40624_200x113.jpg
+    </logo>
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od.atom?platform=ios" rel="self"
+          type="application/atom+xml"/>
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed.atom?platform=ios" rel="up" type="application/atom+xml"/>
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od/recommendations.atom?platform=ios" rel="related"
+          type="application/atom+xml" title="recommendations"/>
+    <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
+    <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
+    <dc:relation.platformClientVersion>1.0</dc:relation.platformClientVersion>
+    <dc:relation.BrandWebSafeTitle>four-in-a-bed</dc:relation.BrandWebSafeTitle>
+    <dc:relation.ProgrammeType>MSU</dc:relation.ProgrammeType>
+    <dc:relation.4oDSeriesCount>1</dc:relation.4oDSeriesCount>
+    <dc:relation.4oDProgrammeCount>20</dc:relation.4oDProgrammeCount>
+    <generator version="1.50-SNAPSHOT">PMLSD</generator>
+    <entry>
+        <id>tag:ios.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
+        <title type="text">This is a Downloadable Episode</title>
+        <summary type="text">This should appear to be both streamed and downloaded</summary>
+        <updated>2013-01-21T12:10:07.451Z</updated>
+        <dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>12</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>55221/007</dc:relation.programmeId>
+        <dc:date.FirstTXDate>2011-11-02T00:00:00.000Z</dc:date.FirstTXDate>
+        <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
+        <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <media:group>
+            <media:content>
+                <media:player url="http://ais.channel4.com/asset/3500338"/>
+                <media:thumbnail
+                        url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Four in a Bed"/>
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>STREAM</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Four in a Bed"/>
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
+        <title type="text">Downloadable Episode num 2</title>
+        <summary type="text">This should appear to be download only</summary>
+        <updated>2013-01-21T12:10:07.451Z</updated>
+        <dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>13</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>55221/008</dc:relation.programmeId>
+        <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate>
+        <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
+        <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <media:group>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais-2.xml"/>
+                <media:thumbnail
+                        url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Four in a Bed"/>
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
+        <title type="text">Downloadable Episode num 3</title>
+        <summary type="text">This should appear to be download only</summary>
+        <updated>2013-01-21T12:10:07.451Z</updated>
+        <dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>14</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>55221/009</dc:relation.programmeId>
+        <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate>
+        <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
+        <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <media:group>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais-3.xml"/>
+                <media:thumbnail
+                        url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Four in a Bed"/>
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+    <entry>
+        <id>tag:ios.channel4.com,2009:/programmes/four-in-a-bed/4od%233466998</id>
+        <title type="text">Geo Error Episode</title>
+        <summary type="text">This should appear to be download only</summary>
+        <updated>2013-01-21T12:10:07.451Z</updated>
+        <dc:relation.BrandTitle>Downloadable Programme</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>4</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>15</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>55221/010</dc:relation.programmeId>
+        <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate>
+        <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
+        <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <media:group>
+            <media:content>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais-4.xml"/>
+                <media:thumbnail
+                        url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Four in a Bed"/>
+                <media:rating>nonadult</media:rating>
+                <media:copyright url="http://cache.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
+                <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available>
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>true</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>15:00</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
 </feed>
