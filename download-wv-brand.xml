@@ -7,9 +7,9 @@
     <name>Channel 4 Television</name>
   </author>
   <logo imageSource="own">http://cache.channel4.com/assets/programmes/images/four-in-a-bed/0ac1778f-6333-4f6b-806e-c23502b40624_200x113.jpg</logo>
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed/4od.atom?platform=android" rel="self" type="application/atom+xml" />
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed.atom?platform=android" rel="up" type="application/atom+xml" />
-  <link href="http://android.channel4.com/pmlsd/four-in-a-bed/4od/recommendations.atom?platform=android" rel="related" type="application/atom+xml" title="recommendations" />
+  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od.atom?platform=ios" rel="self" type="application/atom+xml" />
+  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed.atom?platform=ios" rel="up" type="application/atom+xml" />
+  <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/4od/recommendations.atom?platform=ios" rel="related" type="application/atom+xml" title="recommendations" />
   <dc:relation.BrandFlattened>false</dc:relation.BrandFlattened>
   <dc:relation.presentationBrand>C4</dc:relation.presentationBrand>
   <dc:relation.platformClientVersion>1.1</dc:relation.platformClientVersion>
@@ -29,7 +29,7 @@
     <dc:relation.programmeId>55221/007</dc:relation.programmeId>
     <dc:date.FirstTXDate>2011-11-02T00:00:00.000Z</dc:date.FirstTXDate> 
     <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://android.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
     <media:group>
 	  <media:content> 
         <media:player url="http://ais.channel4.com/asset/3500338" />
@@ -76,7 +76,7 @@
     <dc:relation.programmeId>55221/008</dc:relation.programmeId>
     <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
     <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://android.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
     <media:group>
 	  <media:content> 
         <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-2.xml" />
@@ -107,7 +107,7 @@
     <dc:relation.programmeId>55221/009</dc:relation.programmeId>
     <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
     <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://android.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
     <media:group>
 	  <media:content> 
         <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-3.xml" />
@@ -138,7 +138,7 @@
     <dc:relation.programmeId>55221/010</dc:relation.programmeId>
     <dc:date.FirstTXDate>2011-11-03T00:00:00.000Z</dc:date.FirstTXDate> 
     <dc:relation.FirstTXChannel>C4</dc:relation.FirstTXChannel>
-    <link href="http://android.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
+    <link href="http://ios.channel4.com/pmlsd/four-in-a-bed/episode-guide/series-4/episode-7.atom?platform=android" rel="related" type="application/atom+xml" />
     <media:group>
 	  <media:content> 
         <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-4.xml" />
