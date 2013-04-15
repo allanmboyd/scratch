@@ -68,7 +68,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
-        <title type="text">The Interview</title>
+        <title type="text">WV Downloadable 1</title>
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
             agrees to go for a job working in Mark's office...
         </summary>
@@ -83,7 +83,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais-2.xml"/>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
@@ -144,7 +144,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
-        <title type="text">Mark Makes a Friend</title>
+        <title type="text">>WV Downloadable 2</title>
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
@@ -181,7 +181,7 @@
                 <dc:relation.Duration>24:11</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais-3.xml"/>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-3.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -204,7 +204,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
-        <title type="text">Dream Job</title>
+        <title type="text">>WV Downloadable 3</title>
         <summary type="text">Jeremy tries to wow Toni with his new job in a music studio, while Mark gets passed over
             for promotion in favour of Sophie, and goes slowly round the twist
         </summary>
@@ -241,7 +241,7 @@
                 <dc:relation.Duration>24:43</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais2.xml"/>
+                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-2.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -264,7 +264,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122</id>
-        <title type="text">Funeral</title>
+        <title type="text">>WV Downloadable 4</title>
         <summary type="text">Death and terminal illness prove to be the keys to romantic success for Mark and
             Jeremy...
         </summary>
@@ -301,7 +301,7 @@
                 <dc:relation.Duration>25:10</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais3.xml"/>
+                <media:player url="hhttp://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-4.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
@@ -319,102 +319,6 @@
                 <dc:relation.Subtitles>false</dc:relation.Subtitles>
                 <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
                 <dc:relation.Duration>24:11</dc:relation.Duration>
-            </media:content>
-        </media:group>
-    </entry>
-    <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319248</id>
-        <title type="text">Dance Class</title>
-        <summary type="text">Can you love two people at the same time? Jeremy believes you can, and his gorgeous new
-            American girlfriend puts his taboo bashing beliefs to the test.
-        </summary>
-        <updated>2012-02-10T10:48:06.668Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-1.atom?platform=ios"
-              rel="related" type="application/atom+xml"/>
-        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
-        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>1</dc:relation.EpisodeNumber>
-        <dc:relation.programmeId>36687/001</dc:relation.programmeId>
-        <dc:date.firstTXDate>2004-11-12T00:00:00.000Z</dc:date.firstTXDate>
-        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
-        <media:group>
-            <media:content>
-                <media:player url="http://ais.stage.channel4.com/asset/3285481"/>
-                <media:thumbnail
-                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
-                        height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
-                <media:rating>adult</media:rating>
-                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
-                </media:copyright>
-                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
-                <media:rights status="official"/>
-                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
-                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
-                </dcterms:available>
-                <dc:relation.AgeRating>16</dc:relation.AgeRating>
-                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
-                <dc:relation.Subtitles>false</dc:relation.Subtitles>
-                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-                <dc:relation.Duration>26:50</dc:relation.Duration>
-            </media:content>
-            <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
-                <media:thumbnail
-                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-1/peep-show-s2e1-20090618173913_200x113.jpg"
-                        height="113" width="200" imageSource="own" altText="Jez carrying Mark"/>
-                <media:rating>adult</media:rating>
-                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
-                </media:copyright>
-                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
-                <media:rights status="official"/>
-                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
-                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
-                </dcterms:available>
-                <dc:relation.AgeRating>16</dc:relation.AgeRating>
-                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
-                <dc:relation.Subtitles>false</dc:relation.Subtitles>
-                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-                <dc:relation.Duration>26:50</dc:relation.Duration>
-            </media:content>
-        </media:group>
-    </entry>
-    <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319255</id>
-        <title type="text">Jeremy Makes It</title>
-        <summary type="text">Jeremy meets an old classmate, Gog, who he used to bully. Gog is now successful and invites
-            Jeremy to work on his latest art house movie.
-        </summary>
-        <updated>2012-02-10T10:48:37.027Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-2.atom?platform=ios"
-              rel="related" type="application/atom+xml"/>
-        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
-        <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
-        <dc:relation.programmeId>36687/002</dc:relation.programmeId>
-        <dc:date.firstTXDate>2004-11-19T00:00:00.000Z</dc:date.firstTXDate>
-        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
-        <media:group>
-            <media:content>
-                <media:player url="http://ais.stage.channel4.com/asset/3285484"/>
-                <media:thumbnail
-                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-2/episode-2/peep-show-s2e2-20090618173946_200x113.jpg"
-                        height="113" width="200" imageSource="own" altText="Super Hans"/>
-                <media:rating>adult</media:rating>
-                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
-                </media:copyright>
-                <media:restriction relationship="allow" type="country">GG,GB,JE,IM,IE</media:restriction>
-                <media:rights status="official"/>
-                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
-                <dc:relation.deliveryType>STREAM</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:00.000Z; end=2015-03-01T00:00:00.000Z; scheme=W3C-DTF
-                </dcterms:available>
-                <dc:relation.AgeRating>16</dc:relation.AgeRating>
-                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
-                <dc:relation.Subtitles>false</dc:relation.Subtitles>
-                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
-                <dc:relation.Duration>25:52</dc:relation.Duration>
             </media:content>
         </media:group>
     </entry>
