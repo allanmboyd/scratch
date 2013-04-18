@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Channel4ServiceResult status="OK" serviceName="Asset Info Data Service">
+    <serviceReport returnCode="200">
+        <description>OK</description>
+    </serviceReport>
+    <serviceVersion>2.21</serviceVersion>
+    <assetInfo>
+        <platformClientVersion>2.0</platformClientVersion>
+        <contractId>54283</contractId>
+        <programmeNumber>14</programmeNumber>
+        <brandTitle>Phil Spencer: Secret Agent</brandTitle>
+        <webSafeBrandTitle>phil-spencer-secret-agent</webSafeBrandTitle>
+        <episodeTitle>Ashurst Wood and Weybridge</episodeTitle>
+        <txDate>Wednesday 17 Apr 2013 08.00 PM</txDate>
+        <channelName>Channel 4</channelName>
+        <duration>2837</duration>
+        <sinceBroadcast>43016</sinceBroadcast>
+        <ptc>false</ptc>
+        <logging>false</logging>
+        <adverts>
+            <fwServer>http://2a7e9.v.fwmrm.net</fwServer>
+            <fwNetworkId>174057</fwNetworkId>
+            <fwProfile>c4_android_live</fwProfile>
+            <fwAssetId>54283/014</fwAssetId>
+            <fwAdManagerLocation>http://adm.fwmrm.net/p/c4_android_live/AdManager.fpk</fwAdManagerLocation>
+            <fwLogLevel>QUIET</fwLogLevel>
+            <fwCacheBuster>1</fwCacheBuster>
+            <siteSectionId>android.channel4.com/4od</siteSectionId>
+            <breaks>
+                <break>
+                    <breakOffset>0</breakOffset>
+                    <resumeOffset>0</resumeOffset>
+                </break>
+                <break>
+                    <breakOffset>852000</breakOffset>
+                    <resumeOffset>852000</resumeOffset>
+                </break>
+                <break>
+                    <breakOffset>1416000</breakOffset>
+                    <resumeOffset>1416000</resumeOffset>
+                </break>
+                <break>
+                    <breakOffset>2238000</breakOffset>
+                    <resumeOffset>2238000</resumeOffset>
+                </break>
+            </breaks>
+        </adverts>
+        <videoProfiles>
+            <videoProfile name="widevine-download-1">
+                <stream bitrate="0" filesize="0">
+                    <uri>http://ak.android.c4assets.com/android/CH4_33_01_29_54283014001001_001.wvm</uri>
+                    <token>H5/p+FFBwixvYjxLQCOA0LIjdnOr8xgblVb/hMouf7vSs0ruoWXtST+XBuZojz1pgmpwh+L5vZAOI7MK7QfqUxRQk1UF83slhVdYg7WqdTsjuI5AVtFMfLOsvoRO08Rq</token>
+                </stream>
+                <cdn>ak</cdn>
+            </videoProfile>
+        </videoProfiles>
+        <ia>false</ia>
+        <audioDescription>
+            <isAudioDescribed>false</isAudioDescribed>
+        </audioDescription>
+        <rating>0</rating>
+        <transcodeId>427703</transcodeId>
+        <brand4oDAtomUrl>http://android.channel4.com/pmlsd/phil-spencer-secret-agent/4od.atom</brand4oDAtomUrl>
+        <deliveryType>DOWNLOAD</deliveryType>
+        <contentClass class="1">FaU4oTpLONxQNFx1EKAaKA==</contentClass>
+    </assetInfo>
+</Channel4ServiceResult>
