@@ -68,7 +68,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
-        <title type="text">The Interview</title>
+        <title type="text">Less than 24 hours but more than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
             agrees to go for a job working in Mark's office...
         </summary>
@@ -94,8 +94,8 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
-                </dcterms:available>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T23:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available><!-- Alter this date to change the timings -->
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
                 <dc:relation.Subtitles>false</dc:relation.Subtitles>
@@ -144,7 +144,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
-        <title type="text">Mark Makes a Friend</title>
+        <title type="text">less than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
@@ -192,8 +192,8 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
-                </dcterms:available>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T17:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available><!-- Alter this date to change the timings -->
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
                 <dc:relation.Subtitles>false</dc:relation.Subtitles>
@@ -204,7 +204,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
-        <title type="text">Dream Job</title>
+        <title type="text">Wrong ais url</title><!-- Wrong ais url episode title-->
         <summary type="text">Jeremy tries to wow Toni with his new job in a music studio, while Mark gets passed over
             for promotion in favour of Sophie, and goes slowly round the twist
         </summary>
@@ -241,7 +241,7 @@
                 <dc:relation.Duration>24:43</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais2.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais5.xml"/><!-- Wrong ais url -->
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -264,7 +264,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122</id>
-        <title type="text">Funeral</title>
+        <title type="text">Right ais url but wrong location for movie download</title><!-- Right ais url but wrong location for movie download title-->
         <summary type="text">Death and terminal illness prove to be the keys to romantic success for Mark and
             Jeremy...
         </summary>
@@ -301,7 +301,7 @@
                 <dc:relation.Duration>25:10</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais3.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd /scratch/master/download-ais4.xml"/><!-- Altered ais location-->
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
