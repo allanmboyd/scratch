@@ -429,8 +429,8 @@
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>7</dc:relation.EpisodeNumber>
-        <dc:relation.programmeId>33196/007</dc:relation.programmeId>
+        <dc:relation.EpisodeNumber>4</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/004</dc:relation.programmeId>
         <dc:date.firstTXDate>2003-09-25T23:00:00.000Z</dc:date.firstTXDate>
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
@@ -467,8 +467,8 @@
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>8</dc:relation.EpisodeNumber>
-        <dc:relation.programmeId>33196/008</dc:relation.programmeId>
+        <dc:relation.EpisodeNumber>5</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/005</dc:relation.programmeId>
         <dc:date.firstTXDate>2003-09-25T23:00:00.000Z</dc:date.firstTXDate>
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
