@@ -418,7 +418,7 @@
             </media:content>
         </media:group>
     </entry>
-    <entry>
+    <entry><!-- 24 hours but more than 6 hours --> 
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
         <title type="text">24 hours but more than 6 hours</title>
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
@@ -429,7 +429,7 @@
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
+        <dc:relation.EpisodeNumber>7</dc:relation.EpisodeNumber>
         <dc:relation.programmeId>33196/002</dc:relation.programmeId>
         <dc:date.firstTXDate>2003-09-25T23:00:00.000Z</dc:date.firstTXDate>
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
@@ -446,7 +446,45 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T16:00:00.000Z; scheme=W3C-DTF
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T18:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available><!-- This is where to change the date --> 
+                <dc:relation.AgeRating>16</dc:relation.AgeRating>
+                <dc:relation.Guidance>Strong language</dc:relation.Guidance>
+                <dc:relation.Subtitles>false</dc:relation.Subtitles>
+                <dc:relation.AudioDescription>false</dc:relation.AudioDescription>
+                <dc:relation.Duration>24:11</dc:relation.Duration>
+            </media:content>
+        </media:group>
+    </entry>
+     <entry><!-- less than 6 hours --> 
+        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
+        <title type="text">24 hours but more than 6 hours</title>
+        <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
+            agrees to go for a job working in Mark's office...
+        </summary>
+        <updated>2012-12-20T12:56:55.080Z</updated>
+        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-2.atom?platform=ios"
+              rel="related" type="application/atom+xml"/>
+        <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>8</dc:relation.EpisodeNumber>
+        <dc:relation.programmeId>33196/002</dc:relation.programmeId>
+        <dc:date.firstTXDate>2003-09-25T23:00:00.000Z</dc:date.firstTXDate>
+        <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
+        <media:group>
+            <media:content>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais.xml"/>
+                <media:thumbnail
+                        url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
+                        height="113" width="200" imageSource="own" altText="Jez"/>
+                <media:rating>adult</media:rating>
+                <media:copyright url="http://cache.int.channel4.com/terms_and_conditions.html">Terms and Conditions
+                </media:copyright>
+                <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
+                <media:rights status="official"/>
+                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T12:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available><!-- This is where to change the date --> 
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
