@@ -68,7 +68,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
-        <title type="text">24 hours but more than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
+        <title type="text">Less than 24 hours but more than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
             agrees to go for a job working in Mark's office...
         </summary>
@@ -301,7 +301,7 @@
                 <dc:relation.Duration>25:10</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/nobby-styles/scratch/master/download-ais4.xml"/><!-- Altered ais location-->
+                <media:player url="https://raw.github.com/allanmboyd /scratch/master/download-ais4.xml"/><!-- Altered ais location-->
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
