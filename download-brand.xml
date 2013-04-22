@@ -94,8 +94,8 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T20:00:00.000Z<!-- Alter this date to change the timings -->; scheme=W3C-DTF
-                </dcterms:available>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T23:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available><!-- Alter this date to change the timings -->
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
                 <dc:relation.Subtitles>false</dc:relation.Subtitles>
@@ -192,8 +192,8 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T17:00:00.000Z<!-- Alter this date to change the timings -->; scheme=W3C-DTF
-                </dcterms:available>
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-22T17:00:00.000Z; scheme=W3C-DTF
+                </dcterms:available><!-- Alter this date to change the timings -->
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
                 <dc:relation.Subtitles>false</dc:relation.Subtitles>
