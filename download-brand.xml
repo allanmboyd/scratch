@@ -107,7 +107,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319116</id>
-        <title type="text">On the Pull</title>
+        <title type="text">403 Error Outside Country</title>
         <summary type="text">Mark and Jeremy go 'on the pull' and Mark finds himself smoking pot in the Lazerbowl
             toilets with a teenage goth...
         </summary>
@@ -142,7 +142,7 @@
                 <dc:relation.Duration>23:45</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/nobby-styles/scratch/master/download-ais403.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais403.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
@@ -153,7 +153,7 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                <dcterms:available>start=2012-02-27T00:00:01.000Z; end=2013-04-23T15:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available><!-- Alter this date to change the timings -->
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>
