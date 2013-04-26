@@ -144,7 +144,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
-        <title type="text">>WV Downloadable 2</title>
+        <title type="text">>WV Downloadable NEW TOKEN</title>
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
@@ -181,7 +181,7 @@
                 <dc:relation.Duration>24:11</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-3.xml"/>
+                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-wv-ais-new-token.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-4/peep-show-s1e4-20090618173541_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
