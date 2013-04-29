@@ -25,8 +25,8 @@
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dcterms:available>start=2013-02-11T15:30:00.000Z; end=2013-03-13T15:30:00.000Z; scheme=W3C-DTF
         </dcterms:available>
-        <dc:relation.SeriesNumber>3</dc:relation.SeriesNumber>
-        <dc:relation.EpisodeNumber>26</dc:relation.EpisodeNumber>
+        <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
+        <dc:relation.EpisodeNumber>2</dc:relation.EpisodeNumber>
         <dc:relation.AgeRating>0</dc:relation.AgeRating>
         <dc:relation.Guidance/>
         <dc:date.TXDate>2013-02-18T09:15:00.000Z</dc:date.TXDate>
