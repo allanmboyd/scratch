@@ -344,7 +344,7 @@
     </entry>
      <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122555</id>
-        <title type="text">Funeral</title>
+        <title type="text">Funeral CATCHUP</title>
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
@@ -390,7 +390,7 @@
                 </media:copyright>
                 <media:restriction relationship="allow" type="country">GG,IE,JE,GB,IM</media:restriction>
                 <media:rights status="official"/>
-                <dc:relation.requestType>ARCHIVE</dc:relation.requestType>
+                <dc:relation.requestType>CATCHUP</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
                 <dcterms:available>start=2012-02-27T00:00:01.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
