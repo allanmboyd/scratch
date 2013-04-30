@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/"
       xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms"
-      xml:base="http://ios.int.channel4.com">
-    <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od</id>
+      xml:base="http://ios.stage.channel4.com">
+    <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od</id>
     <title type="text">Peep Show on 4oD</title>
     <updated>2013-02-22T10:41:33.749Z</updated>
     <author>
@@ -11,10 +11,10 @@
     <logo imageSource="own">
         http://cache.int.channel4.com/assets/programmes/images/peep-show/9e69cd37-13f0-4dcb-90fd-a39cf6701731_200x113.jpg
     </logo>
-    <link href="http://ios.int.channel4.com/pmlsd/peep-show/4od.atom?platform=ios" rel="self"
+    <link href="http://ios.stage.channel4.com/pmlsd/peep-show/4od.atom?platform=ios" rel="self"
           type="application/atom+xml"/>
-    <link href="http://ios.int.channel4.com/pmlsd/peep-show.atom?platform=ios" rel="up" type="application/atom+xml"/>
-    <link href="http://ios.int.channel4.com/pmlsd/peep-show/4od/recommendations.atom?platform=ios" rel="related"
+    <link href="http://ios.stage.channel4.com/pmlsd/peep-show.atom?platform=ios" rel="up" type="application/atom+xml"/>
+    <link href="http://ios.stage.channel4.com/pmlsd/peep-show/4od/recommendations.atom?platform=ios" rel="related"
           type="application/atom+xml" title="recommendations"/>
 	<link href="https://itunes.apple.com/gb/tv-season/peep-show-series-7/id404553257" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -27,13 +27,13 @@
     <dc:relation.4oDProgrammeCount>48</dc:relation.4oDProgrammeCount>
     <generator version="1.50-SNAPSHOT">PMLSD</generator>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319112</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319112</id>
         <title type="text">Warring Factions</title>
         <summary type="text">Despite being bullied on the street by the local children, Mark sets himself the task of
             sleeping with the divorcee Toni next door, basing his seduction technique on the Battle of Stalingrad...
         </summary>
         <updated>2012-12-20T12:56:24.020Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-1.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-1.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -67,13 +67,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
         <title type="text">Less than 24 hours but more than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
             agrees to go for a job working in Mark's office...
         </summary>
         <updated>2012-12-20T12:56:55.080Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-2.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-2.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
@@ -105,13 +105,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319116</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319116</id>
         <title type="text">403 Error Outside Country</title>
         <summary type="text">Mark and Jeremy go 'on the pull' and Mark finds himself smoking pot in the Lazerbowl
             toilets with a teenage goth...
         </summary>
         <updated>2012-12-20T12:56:22.736Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-3.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-3.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>1</dc:relation.SeriesNumber>
@@ -163,13 +163,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
         <title type="text">less than 6 hours</title><!--This is one of the episodes to alter the time on as per title-->
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
         <updated>2012-12-20T12:56:55.054Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-4.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-4.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
     	<link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -223,13 +223,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
         <title type="text">Wrong ais url</title><!-- Wrong ais url episode title-->
         <summary type="text">Jeremy tries to wow Toni with his new job in a music studio, while Mark gets passed over
             for promotion in favour of Sophie, and goes slowly round the twist
         </summary>
         <updated>2012-12-20T12:56:55.020Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-5.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-5.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -283,13 +283,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319122</id>
         <title type="text">Right ais url but wrong location for movie download</title><!-- Right ais url but wrong location for movie download title-->
         <summary type="text">Death and terminal illness prove to be the keys to romantic success for Mark and
             Jeremy...
         </summary>
         <updated>2012-12-20T12:56:22.994Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-6.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-6.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
     	<link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -343,13 +343,13 @@
         </media:group>
     </entry>
      <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319122555</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319122555</id>
         <title type="text">Funeral CATCHUP</title>
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
         <updated>2012-12-20T12:56:22.994Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-6.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-1/episode-6.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
     	<link href="https://itunes.apple.com/gb/tv-season/st.-hospitals/id404553257?i=406411533" rel="merchandising"
           type="application/atom+xml" title="merchandising"/>
@@ -403,13 +403,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319248</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319248</id>
         <title type="text">Dance Class</title>
         <summary type="text">Can you love two people at the same time? Jeremy believes you can, and his gorgeous new
             American girlfriend puts his taboo bashing beliefs to the test.
         </summary>
         <updated>2012-02-10T10:48:06.668Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-1.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-1.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
@@ -461,13 +461,13 @@
         </media:group>
     </entry>
     <entry>
-        <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319255</id>
+        <id>tag:ios.stage.channel4.com,2009:/programmes/peep-show/4od/10319255</id>
         <title type="text">Jeremy Makes It</title>
         <summary type="text">Jeremy meets an old classmate, Gog, who he used to bully. Gog is now successful and invites
             Jeremy to work on his latest art house movie.
         </summary>
         <updated>2012-02-10T10:48:37.027Z</updated>
-        <link href="http://ios.int.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-2.atom?platform=ios"
+        <link href="http://ios.stage.channel4.com/pmlsd/peep-show/episode-guide/series-2/episode-2.atom?platform=ios"
               rel="related" type="application/atom+xml"/>
         <dc:relation.BrandTitle>Peep Show</dc:relation.BrandTitle>
         <dc:relation.SeriesNumber>2</dc:relation.SeriesNumber>
