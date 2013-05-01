@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Channel4ServiceResult status="ERROR" serviceName="Channel4Service">
+<serviceReport returnCode="403">
+<description>This programme is not available in your current location.</description>
+</serviceReport>
+<serviceVersion>2.21</serviceVersion>
+<geoInfo>
+<territoriesIncluded>gg, ie, je, gb, im</territoriesIncluded>
+<territoriesExcluded>[]</territoriesExcluded>
+<message>Failure. IP 213.239.215.67 is not allowed to get the info.Included territories are: gg, ie, je, gb, im.Excluded territories are: [].</message>
+</geoInfo>
+</Channel4ServiceResult>

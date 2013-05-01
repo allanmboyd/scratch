@@ -178,7 +178,7 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>CATCHUP</dc:relation.requestType>
                 <dc:relation.DeliveryType>DOWNLOAD</dc:relation.DeliveryType>
-                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=3000-01-01T00:00:00.000Z; scheme=W3C-DTF
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2013-05-25T00:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
                 <dc:relation.AgeRating>16</dc:relation.AgeRating>
                 <dc:relation.Guidance>Strong language</dc:relation.Guidance>

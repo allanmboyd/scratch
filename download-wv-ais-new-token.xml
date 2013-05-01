@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Channel4ServiceResult status="OK" serviceName="Asset Info Data Service">
+    <serviceReport returnCode="200">
+        <description>OK</description>
+    </serviceReport>
+    <serviceVersion>2.19.1</serviceVersion>
+    <assetInfo>
+        <platformClientVersion>1.1</platformClientVersion>
+        <contractId>55221</contractId>
+        <programmeNumber>7</programmeNumber>
+        <brandTitle>Four in a Bed</brandTitle>
+        <webSafeBrandTitle>four-in-a-bed</webSafeBrandTitle>
+        <episodeTitle>G! Boutique</episodeTitle>
+        <txDate>Tuesday 22 Jan 2013 05.00 PM</txDate>
+        <channelName>Channel 4</channelName>
+        <duration>1404</duration>
+        <sinceBroadcast>2320754</sinceBroadcast>
+        <ptc>false</ptc>
+        <logging>false</logging>
+        <adverts>
+            <fwServer>http://2a7e9.v.fwmrm.net</fwServer>
+            <fwNetworkId>174057</fwNetworkId>
+            <fwProfile>c4_android_live</fwProfile>
+            <fwAssetId>55221/007</fwAssetId>
+            <fwAdManagerLocation>http://adm.fwmrm.net/p/c4_android_live/AdManager.fpk</fwAdManagerLocation>
+            <fwLogLevel>QUIET</fwLogLevel>
+            <fwCacheBuster>1</fwCacheBuster>
+            <siteSectionId>android.channel4.com/4od</siteSectionId>
+            <breaks>
+                <break>
+                    <breakOffset>0</breakOffset>
+                    <resumeOffset>0</resumeOffset>
+                </break>
+                <break>
+                    <breakOffset>677000</breakOffset>
+                    <resumeOffset>677000</resumeOffset>
+                </break>
+            </breaks>
+        </adverts>
+        <videoProfiles>
+            <videoProfile name="widevine-download-1">
+                <stream bitrate="0" filesize="170237">
+                    <uri>http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download/Diagnosis_Murder_1500.wvm</uri>
+                    <token>ndKqYwG8MVd9taX05KlGBKa9GxKrbAnmRynLBV6ZhZq2OVuuZVA1UclQf5SQXApzsIkgJUlwmMWDT8FsZ4/9+hzF9CpxSn+vOWonSDNHQWrH/6Am7yb85dC2GREJlVVRWUpsJ4aeihJ0UpHXcfkdJ85vNEg6l1Yf2h+CaU95ISUeXyk5JuZ8CHdZRxT2tu6+RJDHjfBdTKEb6ZX62Ktj7Q==</token>
+                </stream>
+                <cdn>ll</cdn>
+            </videoProfile>
+        </videoProfiles>
+        <ia>false</ia>
+        <audioDescription>
+            <isAudioDescribed>false</isAudioDescribed>
+        </audioDescription>
+        <rating>0</rating>
+        <transcodeId>369309</transcodeId>
+        <brand4oDAtomUrl>http://android.channel4.com/pmlsd/four-in-a-bed/4od.atom</brand4oDAtomUrl>
+        <deliveryType>DOWNLOAD</deliveryType>
+    </assetInfo>
+</Channel4ServiceResult>
