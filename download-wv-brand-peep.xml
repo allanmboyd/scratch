@@ -83,7 +83,7 @@
         <dc:relation.firstTXChannel>C4</dc:relation.firstTXChannel>
         <media:group>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais.xml"/>
+                <media:player url="http://ais.test.channel4.com/asset/3519324"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
