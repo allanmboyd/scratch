@@ -53,7 +53,7 @@
                 <media:rights status="official"/>
                 <dc:relation.requestType>CATCHUP</dc:relation.requestType>
                 <dc:relation.deliveryType>DOWNLOAD</dc:relation.deliveryType>
-                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2013-05-15T00:00:00.000Z; scheme=W3C-DTF
+                <dcterms:available>start=2009-06-24T22:00:00.000Z; end=2013-05-14T12:00:00.000Z; scheme=W3C-DTF
                 </dcterms:available>
                 <dc:date.TXDate>2011-11-02T00:00:00.000Z</dc:date.TXDate>
                 <!-- when CATCHUP then the date on the request; when ARCHIVE this element is omitted -->
