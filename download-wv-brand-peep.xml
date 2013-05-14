@@ -68,7 +68,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319114</id>
-        <title type="text">WV Downloadable 1</title>
+        <title type="text">WV Downloadable 1 - iOS AIS</title>
         <summary type="text">Jeremy and Super Hans' band, the Hair Blair Bunch, is going nowhere - so Jeremy reluctantly
             agrees to go for a job working in Mark's office...
         </summary>
@@ -144,7 +144,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319118</id>
-        <title type="text">>WV Downloadable NEW TOKEN</title>
+        <title type="text">>WV Downloadable NEW TOKEN - Android</title>
         <summary type="text">Mark makes a friend at a business conference - but will it turn into more than just
             friendship? And Jeremy is forced to consider Super Hans as a replacement flatmate.
         </summary>
@@ -204,7 +204,7 @@
     </entry>
     <entry>
         <id>tag:ios.int.channel4.com,2009:/programmes/peep-show/4od/10319120</id>
-        <title type="text">>WV Downloadable 3</title>
+        <title type="text">>WV Downloadable 3 - Android AIS</title>
         <summary type="text">Jeremy tries to wow Toni with his new job in a music studio, while Mark gets passed over
             for promotion in favour of Sophie, and goes slowly round the twist
         </summary>
@@ -241,7 +241,7 @@
                 <dc:relation.Duration>24:43</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/download-wv-ais-2.xml"/>
+                <media:player url="http://ais.test.channel4.com/asset/3519323"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-5/peep-show-s1e5-20090618173610_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Mark"/>
