@@ -39,7 +39,7 @@
         </adverts>
         <videoProfiles>
             <videoProfile name="widevine-download-1">
-                <stream bitrate="0" filesize="37222">
+                <stream bitrate="0">
                     <uri>http://aws-c4-generichosting.s3.amazonaws.com/4oDAndroid/51382_001_001_001-SD_Android_1500.mp4</uri>
                     <token>H5/p+FFBwixvYjxLQCOA0LIjdnOr8xgblVb/hMouf7vSs0ruoWXtST+XBuZojz1pEoWTZCJgyG5bc+bMpwUm+XgEKYWlM2qbdMgFmkuixDErUfyxy8Drkwl4/M1+K3GD</token>
                 </stream>
