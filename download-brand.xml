@@ -381,7 +381,7 @@
                 <dc:relation.Duration>25:10</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="https://raw.github.com/allanmboyd/scratch/master/download-ais3.xml"/>
+                <media:player url="https://raw.github.com/nobby-styles/scratch/master/download-ais3.xml"/>
                 <media:thumbnail
                         url="http://cache.int.channel4.com/assets/programmes/images/peep-show/series-1/episode-2/peep-show-s1e2-20090618173315_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Jez"/>
