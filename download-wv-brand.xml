@@ -59,7 +59,7 @@
                 <dc:relation.Duration>15:00</dc:relation.Duration>
             </media:content>
             <media:content>
-                <media:player url="http://aws-c4-generichosting.s3.amazonaws.com/4oDios/download-wv-ais.xml"/>
+                <media:player url="http://ais.test.channel4.com/asset/3519324"/>
                 <media:thumbnail
                         url="http://cache.channel4.com/assets/programmes/images/four-in-a-bed/series-4/episode-7/6c0973c6-069f-45b1-8efe-6c6867b5dba5_200x113.jpg"
                         height="113" width="200" imageSource="own" altText="Four in a Bed"/>
