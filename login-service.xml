@@ -1,0 +1,15 @@
+<Channel4ServiceResult serviceName="Login Service" status="OK">
+    <serviceReport>
+        <description>Login successful.</description>
+        <returnCode>200</returnCode>
+    </serviceReport>
+    <C4User>
+        <id>447a93f5-955c-4ed8-b690-feaefbbb353f</id>
+        <cookie>
+            eyJkaXNwbGF5TmFtZSI6InNhdXJhYmgiLCJnZW5kZXIiOiJNQUxFIiwiYWdlIjoiMzIiLCJ1c2VySWQiOiI0NDdhOTNmNS05NTVjLTRlZDgtYjY5MC1mZWFlZmJiYjM1M2YiLCJ0eXBlIjoiQzQiLCJyZW1lbWJlck1lIjoiZmFsc2UiLCJjcmVhdGVkIjoiMTM2NzMzNjMxMTQwMyIsImhhc2giOiJpRGJDV3k0ZG9ZendKQnY4Sm14OHhRIiwiYWRkcmVzc0NhcHR1cmVkIjoiZmFsc2UifQ==
+        </cookie>
+        <cookieExpires>-1</cookieExpires>
+        <validated>false</validated>
+        <displayName>saurabh</displayName>
+    </C4User>
+</Channel4ServiceResult>
